@@ -1,3 +1,3 @@
 # HackerRank
 
-Just a reminder...
+HackerRank submissions
